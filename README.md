@@ -11,7 +11,7 @@ Built using **ASP.NET Core Web API**, this project provides RESTful endpoints fo
 | Data Access | ADO.NET (Raw SQL, No EF)            |
 | Database    | MySQL                               |
 | Architecture| MVC + Layered (Controller, BLL, DAL)|
-| Reporting   | RDLC / Crystal Report (optional)    |
+| Reporting   | RDLC / Crystal Report     |
 
 ---
 
